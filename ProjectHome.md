@@ -1,0 +1,1 @@
+NewsletterPopup is a simple application, when you receive a message will pop up dialog box, and issued a Model voice message to remind you, if necessary you can also open the screen, unlock the keyboard. It shows the most recent messages, the sender As well as contacts icon (advance settings).
